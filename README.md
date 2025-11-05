@@ -42,7 +42,7 @@ Baby AI uses **Groq-hosted LLMs**, offering ultra-low latency, real-time respons
 #### 🧠 Summarization & Rewrite Tools
 ![Tools](screenshots/chatbot_subtasks.PNG)
 ![Tools](screenshots/chatbot_summarize.PNG)
-![Tools](screenshots/chatbotrewrite.PNG)
+![Tools](screenshots/chatbot_rewrite.PNG)
 
 #### ⚙️ FastAPI Interactive Docs
 ![Docs](screenshots/post_chat.PNG)
