@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+
+# Environment variables
+.env
+
+# System / IDE files
+.DS_Store
+*.log
+*.pyc
+
+# FastAPI / cache / temp
+*.db
+*.sqlite3
+.cache/
