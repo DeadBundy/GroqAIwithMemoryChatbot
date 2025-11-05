@@ -33,6 +33,25 @@ Baby AI uses **Groq-hosted LLMs**, offering ultra-low latency, real-time respons
 
 ---
 
+### 🌟 Screenshots
+
+#### 💬 Chat Interface
+![Chat UI](screenshots/chatbotUI.png)
+![Chat UI](screenshots/chatbot.png)
+
+#### 🧠 Summarization & Rewrite Tools
+![Tools](screenshots/chatbot_subtasks.png)
+![Chat UI](screenshots/chatbot_summarize.png)
+![Chat UI](screenshots/chatbotrewrite.png)
+
+#### ⚙️ FastAPI Interactive Docs
+![Docs](screenshots/screenshot_docs.png)
+
+> Powered by Groq LLMs, built from scratch with FastAPI + Vanilla JavaScript.
+
+---
+
+
 ### 🧰 How to Run Locally
 
 # clone the repo
